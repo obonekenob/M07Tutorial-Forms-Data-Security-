@@ -1,4 +1,4 @@
-# M06 Tutorial-Templating and Dynamic Data
+# M07 Tutorial - Forms, Data, and Security
 
-Begin learning about full-stack Python development  
-using Django  
+ Adding new forms and security 
+  
